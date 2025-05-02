@@ -29,6 +29,9 @@ test3,test4
 ```
 
 Then : `python3 ADGenerator.py names.txt`
+or 
+
+`generateoutput.py namelist.txt -o usernameoutput.txt`
 
 Example of output : 
 
